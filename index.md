@@ -1,5 +1,9 @@
 # jeden
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ``` python
 def pozdrowienia(name1,name2):
     """
